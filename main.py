@@ -177,7 +177,7 @@ def download_stream():
 
 # Setup main window and create the progress variable after the root is created
 root = tk.Tk()
-root.title("YouTube Downloader")
+root.title("Youtwub")
 try:
     root.iconbitmap("app.ico")
 except Exception as e:
